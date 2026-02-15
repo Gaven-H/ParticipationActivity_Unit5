@@ -8,3 +8,6 @@ elif age < 4:
 
 elif age < 13:
     print("This person is a kid.")
+
+elif age < 20:
+    print("This person is a teenager.")
