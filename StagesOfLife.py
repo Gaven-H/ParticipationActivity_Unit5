@@ -5,3 +5,6 @@ if age < 2:
 
 elif age < 4:
     print("This person is a toddler.")
+
+elif age < 13:
+    print("This person is a kid.")
